@@ -1,3 +1,4 @@
+/* stylelint-disable indentation */
 * {
     box-sizing: border-box;
 }
@@ -28,6 +29,7 @@ body {
 .gallery {
     display: flex;
     flex-direction: row;
+    /* stylelint-disable-next-line declaration-block-no-redundant-longhand-properties */
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
@@ -40,4 +42,5 @@ body {
 .gallery::after {
     content: "";
     width: 350px;
+/* stylelint-disable-next-line no-missing-end-of-source-newline */
 }
