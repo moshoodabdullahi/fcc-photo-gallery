@@ -20,6 +20,7 @@ Additional description about the project and its features.
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
 - GitHub Action
+
 ## Live Demo
 
 [Live Demo Link](https://fcc-photo-gallery.netlify.app/)
