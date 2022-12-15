@@ -10,16 +10,16 @@ Additional description about the project and its features.
 
 - HTML5 elements
   - `h1`,
-  - `header`,
-  - `div`, `img`.
-- CSS elements
-  - `body`,
-  - `header`, `.gallery`.
+  - `div`,`img`,
+  - `header`.
+- CSS properties
+  - CSS Variables for reusable CSS values,
+  - CSS Positioning `center`,
+  - CSS Background for page aesthetic using `background-color`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
-- Github Action
-
+- GitHub Action
 ## Live Demo
 
 [Live Demo Link](https://fcc-photo-gallery.netlify.app/)
