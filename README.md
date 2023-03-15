@@ -10,8 +10,8 @@ Additional description about the project and its features.
 
 - HTML5 elements
   - `h1`,
-  - `div`,`img`,
-  - `header`.
+  - `header`,
+  - `div`,`img`.
 - CSS properties
   - CSS Variables for reusable CSS values,
   - CSS Positioning `center`,
